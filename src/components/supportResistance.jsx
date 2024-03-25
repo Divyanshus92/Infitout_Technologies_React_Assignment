@@ -15,7 +15,7 @@ const SupportResistance = () => {
     <div>
       <div className="flex flex-col bg-white rounded">
         <div className="flex items-center justify-between px-10 py-4">
-          <p className="font-bold">Suppoprt and Resistance</p>
+          <p className="font-bold">Support and Resistance</p>
           <IoIosInformationCircleOutline className="h-6 w-6 text-gray-400" />
         </div>
         <div className="flex items-center justify-center pt-5">
